@@ -1,0 +1,15 @@
+Algoritma Bilangan_maksimum
+
+Deklarasi :
+	Bil1, Bil2, Bil3 : integer
+	Max 		 : integer
+
+Deskripsi :
+1. Read (Bil1,Bil2)
+2. If Bil1 >= Bil2 then
+3.    Bil1 = Max
+4. Else Bil2 = Max
+5. Read (Bil3)
+6. If Bil3 >= Max then
+7.    Bil 3 = Max
+8. Write (Max)
