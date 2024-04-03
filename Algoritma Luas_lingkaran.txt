@@ -1,15 +1,1 @@
-Algoritma Luas_lingkaran
-
-Deklarasi :
-jari_jari = real {tipe data bilangan pecahan}
-luas = real {tipe data bilangan pecahan}
-PHi = 3,14
-
-Deskripsi :
-1. Baca jari_jari
-2. Hitung luas = PHI*jari_jari * jari_jari
-3. Tampilkan luas ke layar
-4. Selesai
-
-
 
