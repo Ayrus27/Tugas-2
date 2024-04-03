@@ -1,0 +1,33 @@
+Algoritma Menghitung nilai rata-rata
+
+1. Mulai
+2. Masukan nama dan nim mahasiswa
+3. Masukan nilai 1, nilai 2, nilai 3
+4. Jumlahkan seluruh nilai dan bagi dengan 3
+5. Simpan hasil sebagai nilai rata-rata
+6. Tampilkan hasil dengan :
+    a. NIM dan Nama
+    b. hasil nilai rata-rata
+7. selesai.
+
+Algoritma Menghitung nilai akhir
+
+ALGORITMA HITUNG NILAI AKHIR SISWA
+1. Mulai program
+2. Tampilkan pesan "PROGRAM HITUNG NILAI AKHIR"
+3. Input dari pengguna:
+   a. Nama Siswa
+   b. Nilai Keaktifan
+   c. Nilai Tugas
+   d. Nilai Ujian
+4. Hitung nilai murni masing-masing:
+   a. Nilai Murni Keaktifan = Nilai Keaktifan * 20%
+   b. Nilai Murni Tugas = Nilai Tugas * 50%
+   c. Nilai Murni Ujian = Nilai Ujian * 30%
+5. Hitung nilai akhir:
+   a. Nilai Akhir = Nilai Murni Keaktifan + Nilai Murni Tugas + Nilai Murni Ujian
+6. Tampilkan hasil:
+   b. Tampilkan nama siswa
+   c. Tampilkan nilai murni keaktifan, tugas, dan ujian
+   d. Tampilkan nilai akhir siswa
+7. Selesai.
